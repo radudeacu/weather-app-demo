@@ -1,8 +1,7 @@
-# React + Vite
+# Simple Weather App |  API Data Fetching with Axios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objective: Show how to fetch data from an external API.
 
-Currently, two official plugins are available:
+Description: Create a weather app that fetches data from a public weather API based on user input for the city. Display the temperature and weather conditions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feature Focus: Fetching data from APIs with Axios (or Fetch).
